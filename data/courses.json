@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "title":"Introduction With Python Programming",
+        "details":"Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it’s relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.",
+        "course-id":1,
+        "img":"https://www.techscrolling.com/wp-content/uploads/2018/06/Python-Programming-Language-in-Data-Science.png"
+    },
+    {
+        "id":2,
+        "title":"Introduction With C Programming",
+        "details":"It is a computer programming language developed in the early 1970s by Ken Thompson and Dennis Ritchie at Bell Laboratories.It is a programming language that was developed to do system programming for the operating system UNIX, but later it was used for developing software and programs for daily usage. It is still being used to develop operating systems and for creating system-level programs, by big tech companies (FAANG companies).C language is a very good language to introduce yourself to the programming world, as it is a simple, and easy-to-learn language that is capable of doing wonders.Programs that are written in C language take very little time to execute and almost execute at the speed of assembly language instructions. (Assembly level instructions are nothing but direct commands to communicate with computer's hardware)Initially, C language was mainly used for writing system-level programs, like designing Operating Systems, because in the eighties (1980-89) the fight to make a stable, worldwide accepted operating system was going on.But C language can be used to develop other applications as well, like Text Editors, Compilers, Network Drivers, many traditional PoS(Point of Sale) software like Restaurant Billing systems, etc.",
+        "course-id":1,
+        "img":"https://grandcoder.in/wp-content/uploads/2022/06/C.jpg"
+    },
+    {
+        "id":3,
+        "title":"Introduction With C++ Programming",
+        "details":"C++ is a statically typed, compiled, general-purpose, case-sensitive, free-form programming language that supports procedural, object-oriented, and generic programming.C++ is regarded as a middle-level language, as it comprises a combination of both high-level and low-level language features.C++ was developed by Bjarne Stroustrup starting in 1979 at Bell Labs in Murray Hill, New Jersey, as an enhancement to the C language and originally named C with Classes but later it was renamed C++ in 1983.C++ is a superset of C, and that virtually any legal C program is a legal C++ program.C++ fully supports object-oriented programming, including the four pillars of object-oriented development (Encapsulation,Data hiding,Inheritance,Polymorphism)C++ is used by hundreds of thousands of programmers in essentially every application domain.C++ is being highly used to write device drivers and other software that rely on direct manipulation of hardware under realtime constraints.C++ is widely used for teaching and research because it is clean enough for successful teaching of basic concepts.Anyone who has used either an Apple Macintosh or a PC running Windows has indirectly used C++ because the primary user interfaces of these systems are written in C++.",
+        "course-id":1,
+        "img":"https://learn.cryptina.in/wp-content/uploads/2020/03/Python-Programmer-Wallpaper-Widescreen-wallpaper.png"
+    },
+    {
+        "id":4,
+        "title":"Introduction With JavaScript Programming",
+        "details":"",
+        "course-id":1,
+        "img":"https://w0.peakpx.com/wallpaper/797/913/HD-wallpaper-javascript-black-logo-programming-language-grid-metal-background-javascript-artwork-creative-programming-language-signs-javascript-logo.jpg"
+    },
+    {
+        "id":5,
+        "title":"Introduction With MySQL",
+        "details":"",
+        "course-id":1,
+        "img":"https://www.zend.com/sites/default/files/styles/social_preview_image/public/image/2020-04/image-blog-mysql-php.jpg?itok=j341L3Fk"
+    },
+    {
+        "id":6,
+        "title":"Introduction With PHP Programming",
+        "details":"The term PHP is an acronym for PHP: Hypertext Preprocessor. PHP is a server-side scripting language designed specifically for web development. It is open-source which means it is free to download and use. It is very simple to learn and use. The files have the extension “.php”. Rasmus Lerdorf inspired the first version of PHP and participated in the later versions. It is an interpreted language and it does not require a compiler. PHP code is executed in the server.It can be integrated with many databases such as Oracle, Microsoft SQL Server, MySQL, PostgreSQL, Sybase, and Informix. It is powerful to hold a content management system like WordPress and can be used to control user access.It supports main protocols like HTTP Basic, HTTP Digest, IMAP, FTP, and others.Websites like www.facebook.com and www.yahoo.com are also built on PHP.One of the main reasons behind this is that PHP can be easily embedded in HTML files and HTML codes can also be written in a PHP file.The thing that differentiates PHP from the client-side language like HTML is, that PHP codes are executed on the server whereas HTML codes are directly rendered on the browser. PHP codes are first executed on the server and then the result is returned to the browser.The only information that the client or browser knows is the result returned after executing the PHP script on the server and not the actual PHP codes present in the PHP file. Also, PHP files can support other client-side scripting languages like CSS and JavaScript.",
+        "course-id":1,
+        "img":"https://wallpaperaccess.com/full/1340336.jpg"
+    }
+]
