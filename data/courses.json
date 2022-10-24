@@ -10,14 +10,14 @@
         "id":2,
         "title":"Introduction With C Programming",
         "details":"It is a computer programming language developed in the early 1970s by Ken Thompson and Dennis Ritchie at Bell Laboratories.It is a programming language that was developed to do system programming for the operating system UNIX, but later it was used for developing software and programs for daily usage. It is still being used to develop operating systems and for creating system-level programs, by big tech companies (FAANG companies).C language is a very good language to introduce yourself to the programming world, as it is a simple, and easy-to-learn language that is capable of doing wonders.Programs that are written in C language take very little time to execute and almost execute at the speed of assembly language instructions. (Assembly level instructions are nothing but direct commands to communicate with computer's hardware)Initially, C language was mainly used for writing system-level programs, like designing Operating Systems, because in the eighties (1980-89) the fight to make a stable, worldwide accepted operating system was going on.But C language can be used to develop other applications as well, like Text Editors, Compilers, Network Drivers, many traditional PoS(Point of Sale) software like Restaurant Billing systems, etc.",
-        "course-id":1,
+        "course-id":2,
         "img":"https://grandcoder.in/wp-content/uploads/2022/06/C.jpg"
     },
     {
         "id":3,
         "title":"Introduction With C++ Programming",
         "details":"C++ is a statically typed, compiled, general-purpose, case-sensitive, free-form programming language that supports procedural, object-oriented, and generic programming.C++ is regarded as a middle-level language, as it comprises a combination of both high-level and low-level language features.C++ was developed by Bjarne Stroustrup starting in 1979 at Bell Labs in Murray Hill, New Jersey, as an enhancement to the C language and originally named C with Classes but later it was renamed C++ in 1983.C++ is a superset of C, and that virtually any legal C program is a legal C++ program.C++ fully supports object-oriented programming, including the four pillars of object-oriented development (Encapsulation,Data hiding,Inheritance,Polymorphism)C++ is used by hundreds of thousands of programmers in essentially every application domain.C++ is being highly used to write device drivers and other software that rely on direct manipulation of hardware under realtime constraints.C++ is widely used for teaching and research because it is clean enough for successful teaching of basic concepts.Anyone who has used either an Apple Macintosh or a PC running Windows has indirectly used C++ because the primary user interfaces of these systems are written in C++.",
-        "course-id":1,
+        "course-id":3,
         "img":"https://learn.cryptina.in/wp-content/uploads/2020/03/Python-Programmer-Wallpaper-Widescreen-wallpaper.png"
     },
     {
