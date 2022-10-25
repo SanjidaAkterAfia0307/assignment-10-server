@@ -1,44 +1,50 @@
 [
     {
         "id":1,
-        "title":"Introduction With Python Programming",
+        "title":"  Python",
         "details":"Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it’s relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.Python has become a staple in data science, allowing data analysts and other professionals to use the language to conduct complex statistical calculations, create data visualizations, build machine learning algorithms, manipulate and analyze data, and complete other data-related tasks.Python can build a wide range of different data visualizations, like line and bar graphs, pie charts, histograms, and 3D plots. Python also has a number of libraries that enable coders to write programs for data analysis and machine learning more quickly and efficiently, like TensorFlow and Keras.Python is often used to develop the back end of a website or application—the parts that a user doesn’t see. Python’s role in web development can include sending data to and from servers, processing data and communicating with databases, URL routing, and ensuring security. Python offers several frameworks for web development. Commonly used ones include Django and Flask.Some web development jobs that use Python include back end engineers, full stack engineers, Python developers, software engineers, and DevOps engineers.",
         "course-id":1,
+        "icon":"https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png",
         "img":"https://www.techscrolling.com/wp-content/uploads/2018/06/Python-Programming-Language-in-Data-Science.png"
     },
     {
         "id":2,
-        "title":"Introduction With C Programming",
+        "title":"  C",
         "details":"It is a computer programming language developed in the early 1970s by Ken Thompson and Dennis Ritchie at Bell Laboratories.It is a programming language that was developed to do system programming for the operating system UNIX, but later it was used for developing software and programs for daily usage. It is still being used to develop operating systems and for creating system-level programs, by big tech companies (FAANG companies).C language is a very good language to introduce yourself to the programming world, as it is a simple, and easy-to-learn language that is capable of doing wonders.Programs that are written in C language take very little time to execute and almost execute at the speed of assembly language instructions. (Assembly level instructions are nothing but direct commands to communicate with computer's hardware)Initially, C language was mainly used for writing system-level programs, like designing Operating Systems, because in the eighties (1980-89) the fight to make a stable, worldwide accepted operating system was going on.But C language can be used to develop other applications as well, like Text Editors, Compilers, Network Drivers, many traditional PoS(Point of Sale) software like Restaurant Billing systems, etc.",
         "course-id":2,
+        "icon":"https://www.seekpng.com/png/detail/353-3535324_c-programming-language-icon.png",
         "img":"https://grandcoder.in/wp-content/uploads/2022/06/C.jpg"
     },
     {
         "id":3,
-        "title":"Introduction With C++ Programming",
+        "title":"  C++",
         "details":"C++ is a statically typed, compiled, general-purpose, case-sensitive, free-form programming language that supports procedural, object-oriented, and generic programming.C++ is regarded as a middle-level language, as it comprises a combination of both high-level and low-level language features.C++ was developed by Bjarne Stroustrup starting in 1979 at Bell Labs in Murray Hill, New Jersey, as an enhancement to the C language and originally named C with Classes but later it was renamed C++ in 1983.C++ is a superset of C, and that virtually any legal C program is a legal C++ program.C++ fully supports object-oriented programming, including the four pillars of object-oriented development (Encapsulation,Data hiding,Inheritance,Polymorphism)C++ is used by hundreds of thousands of programmers in essentially every application domain.C++ is being highly used to write device drivers and other software that rely on direct manipulation of hardware under realtime constraints.C++ is widely used for teaching and research because it is clean enough for successful teaching of basic concepts.Anyone who has used either an Apple Macintosh or a PC running Windows has indirectly used C++ because the primary user interfaces of these systems are written in C++.",
         "course-id":3,
+        "icon":"https://img.favpng.com/8/18/6/c-programming-language-logo-computer-programming-png-favpng-mpuXd11Ye3fT7N8FTMjb7FHQy.jpg",
         "img":"https://learn.cryptina.in/wp-content/uploads/2020/03/Python-Programmer-Wallpaper-Widescreen-wallpaper.png"
     },
     {
         "id":4,
-        "title":"Introduction With JavaScript Programming",
+        "title":"  JavaScript",
         "details":"JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities.JavaScript was first known as LiveScript, but Netscape changed its name to JavaScript, possibly because of the excitement being generated by Java. JavaScript made its first appearance in Netscape 2.0 in 1995 with the name LiveScript. The general-purpose core of the language has been embedded in Netscape, Internet Explorer, and other web browsers.Client-side JavaScript is the most common form of the language. The script should be included in or referenced by an HTML document for the code to be interpreted by the browser.It means that a web page need not be a static HTML, but can include programs that interact with the user, control the browser, and dynamically create HTML content. The JavaScript client-side mechanism provides many advantages over traditional CGI server-side scripts. For example, you might use JavaScript to check if the user has entered a valid e-mail address in a form field. The JavaScript code is executed when the user submits the form, and only if all the entries are valid, they would be submitted to the Web Server.JavaScript can be used to trap user-initiated events such as button clicks, link navigation, and other actions that the user initiates explicitly or implicitly.",
         "course-id":1,
+        "icon":"https://img.favpng.com/22/10/1/javascript-and-jquery-interactive-front-end-web-development-website-development-programming-language-c-png-favpng-C1tH6Djez6nNJECG636CU4H1j.jpg",
         "img":"https://w0.peakpx.com/wallpaper/797/913/HD-wallpaper-javascript-black-logo-programming-language-grid-metal-background-javascript-artwork-creative-programming-language-signs-javascript-logo.jpg"
     },
     {
         "id":5,
-        "title":"Introduction With MySQL",
+        "title":"  MySQL",
         "details":"MySQL is one of the most recognizable technologies in the modern big data ecosystem. Often called the most popular database and currently enjoying widespread, effective use regardless of industry, it’s clear that anyone involved with enterprise data or general IT should at least aim for a basic familiarity of MySQL.With MySQL, even those new to relational systems can immediately build fast, powerful, and secure data storage systems. MySQL’s programmatic syntax and interfaces are also perfect gateways into the wide world of other popular query languages and structured data stores.MySQL is a relational database management system (RDBMS) developed by Oracle that is based on structured query language (SQL).A database is a structured collection of data. It may be anything from a simple shopping list to a picture gallery or a place to hold the vast amounts of information in a corporate network. In particular, a relational database is a digital store collecting data and organizing it according to the relational model. In this model, tables consist of rows and columns, and relationships between data elements all follow a strict logical structure. An RDBMS is simply the set of software tools used to actually implement, manage, and query such a database. ",
         "course-id":1,
+        "icon":"https://banner2.cleanpng.com/20180531/wkx/kisspng-computer-icons-mysql-database-5b109011d4a3d0.393444881527812113871.jpg",
         "img":"https://www.zend.com/sites/default/files/styles/social_preview_image/public/image/2020-04/image-blog-mysql-php.jpg?itok=j341L3Fk"
     },
     {
         "id":6,
-        "title":"Introduction With PHP Programming",
+        "title":"  PHP",
         "details":"The term PHP is an acronym for PHP: Hypertext Preprocessor. PHP is a server-side scripting language designed specifically for web development. It is open-source which means it is free to download and use. It is very simple to learn and use. The files have the extension “.php”. Rasmus Lerdorf inspired the first version of PHP and participated in the later versions. It is an interpreted language and it does not require a compiler. PHP code is executed in the server.It can be integrated with many databases such as Oracle, Microsoft SQL Server, MySQL, PostgreSQL, Sybase, and Informix. It is powerful to hold a content management system like WordPress and can be used to control user access.It supports main protocols like HTTP Basic, HTTP Digest, IMAP, FTP, and others.Websites like www.facebook.com and www.yahoo.com are also built on PHP.One of the main reasons behind this is that PHP can be easily embedded in HTML files and HTML codes can also be written in a PHP file.The thing that differentiates PHP from the client-side language like HTML is, that PHP codes are executed on the server whereas HTML codes are directly rendered on the browser. PHP codes are first executed on the server and then the result is returned to the browser.The only information that the client or browser knows is the result returned after executing the PHP script on the server and not the actual PHP codes present in the PHP file. Also, PHP files can support other client-side scripting languages like CSS and JavaScript.",
         "course-id":1,
+        "icon":"https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png",
         "img":"https://wallpaperaccess.com/full/1340336.jpg"
     }
 ]
