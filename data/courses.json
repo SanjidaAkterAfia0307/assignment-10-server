@@ -7,6 +7,11 @@
         "icon": "https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png",
         "img": "https://miro.medium.com/max/840/1*RJMxLdTHqVBSijKmOO5MAg.jpeg",
         "tutorials": "27",
+        "cost":{
+            "general":"3000 BDT",
+            "off":"15",
+            "offer":"2550 BDT"
+        },
         "view": "4.5 M",
         "rating": "4.5",
         "students":"25 M",
@@ -24,6 +29,11 @@
         "icon": "https://www.seekpng.com/png/detail/353-3535324_c-programming-language-icon.png",
         "img": "https://w0.peakpx.com/wallpaper/147/497/HD-wallpaper-c-plus-plus-black-logo-programming-language-grid-metal-background-c-plus-plus-artwork-creative-programming-language-signs-c-plus-plus-logo-thumbnail.jpg",
         "tutorials": "25",
+        "cost":{
+            "general":"3000 BDT",
+            "off":"15",
+            "offer":"2550 BDT"
+        },
         "view": "4.9 M",
         "rating": "4.8",
         "students":"32 M",
@@ -41,6 +51,11 @@
         "icon": "https://img.favpng.com/8/18/6/c-programming-language-logo-computer-programming-png-favpng-mpuXd11Ye3fT7N8FTMjb7FHQy.jpg",
         "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/448662d2-5c45-4227-a3f6-130dbcb15b49/d2se3bf-5a5803e5-b178-4d24-97d3-db05d3521ab3.png/v1/fill/w_900,h_507,q_80,strp/c___wallpaper_by_fluffyevilbunny_d2se3bf-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA3IiwicGF0aCI6IlwvZlwvNDQ4NjYyZDItNWM0NS00MjI3LWEzZjYtMTMwZGJjYjE1YjQ5XC9kMnNlM2JmLTVhNTgwM2U1LWIxNzgtNGQyNC05N2QzLWRiMDVkMzUyMWFiMy5wbmciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.JYnGKPUEGZ21fpEAYx1eCQBU-TdipWpzdDD78-853zg",
         "tutorials": "35",
+        "cost":{
+            "general":"3000 BDT",
+            "off":"15",
+            "offer":"2550 BDT"
+        },
         "view": "4.5 M",
         "rating": "4.1",
         "students":"22 M",
@@ -58,6 +73,11 @@
         "icon": "https://img.favpng.com/22/10/1/javascript-and-jquery-interactive-front-end-web-development-website-development-programming-language-c-png-favpng-C1tH6Djez6nNJECG636CU4H1j.jpg",
         "img": "https://w0.peakpx.com/wallpaper/797/913/HD-wallpaper-javascript-black-logo-programming-language-grid-metal-background-javascript-artwork-creative-programming-language-signs-javascript-logo.jpg",
         "tutorials": "33",
+        "cost":{
+            "general":"3000 BDT",
+            "off":"15",
+            "offer":"2550 BDT"
+        },
         "view": "4.5 M",
         "rating": "4.6",
         "students":"35 M",
@@ -75,6 +95,11 @@
         "icon": "https://banner2.cleanpng.com/20180531/wkx/kisspng-computer-icons-mysql-database-5b109011d4a3d0.393444881527812113871.jpg",
         "img": "https://www.zend.com/sites/default/files/styles/social_preview_image/public/image/2020-04/image-blog-mysql-php.jpg?itok=j341L3Fk",
         "tutorials": "27",
+        "cost":{
+            "general":"3000 BDT",
+            "off":"15",
+            "offer":"2550 BDT"
+        },
         "view": "4.8 M",
         "rating": "4.7",
         "students":"30 M",
@@ -92,6 +117,11 @@
         "icon": "https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png",
         "img": "https://wallpaperaccess.com/full/1340336.jpg",
         "tutorials": "27",
+        "cost":{
+            "general":"3000 BDT",
+            "off":"15",
+            "offer":"2550 BDT"
+        },
         "view": "4.2 M",
         "rating": "4.3",
         "students":"22 M",
